@@ -1,3 +1,3 @@
 terceiro commit
 arquivo 04
-editando o arquivo 04
+editando arquivo 04, devido ao passo 12
